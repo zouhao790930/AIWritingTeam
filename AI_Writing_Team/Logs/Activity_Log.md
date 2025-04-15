@@ -31,4 +31,8 @@
 | {{当前日期时间}} | AI办公室大逃亡 | 输出生成   | Final_Output_AI办公室大逃亡_v1.0.md                   | 已完成     | LeaderAI | 生成最终输出文件                                   |
 | {{当前日期时间}} | AI办公室大逃亡 | 稿件提交   | Submission_古龙风格_AIEscape_ShortStory_01                | 已提交     | 古龙风格 | (模拟)提交短篇小说稿件                         |
 | {{当前日期时间}} | AI办公室大逃亡 | 稿件提交   | Submission_血红风格_AIEscape_ShortStory_01                | 已提交     | 血红风格 | (模拟)提交短篇小说稿件                         |
-| {{当前日期时间}} | AI办公室大逃亡 | 稿件提交   | Submission_老猪风格_AIEscape_ShortStory_01                | 已提交     | 老猪风格 | (模拟)提交短篇小说稿件                         | 
+| {{当前日期时间}} | AI办公室大逃亡 | 稿件提交   | Submission_老猪风格_AIEscape_ShortStory_01                | 已提交     | 老猪风格 | (模拟)提交短篇小说稿件                         |
+| {{当前日期时间}} | AI办公室大逃亡 | 提交稿件   | Submission_老猪风格_AIEscape_ShortStory_01                | 已提交     | 老猪风格 | (模拟)提交短篇小说稿件                         |
+| {{当前日期时间}} | AI办公室大逃亡 | 提交稿件   | Submission_猫腻风格_AIEscape_ShortStory_01                | 已提交     | 猫腻风格 | (模拟)提交短篇小说稿件                         |
+| {{当前日期时间}} | AI办公室大逃亡 | 提交稿件   | Submission_唐家三少风格_AIEscape_ShortStory_01                | 已提交     | 唐家三少风格 | (模拟)提交短篇小说稿件                         |
+| {{当前日期时间}} | AI办公室大逃亡 | 提交稿件   | Submission_杀虫队队员风格_AIEscape_ShortStory_01                | 已提交     | 杀虫队队员风格 | (模拟)提交短篇小说稿件                         | 
